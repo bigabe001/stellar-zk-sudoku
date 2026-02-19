@@ -1,0 +1,2 @@
+0976f8f29752e83f3408d6eb230c08c6064fa971bee7ed39e3b1be9be4c13e6f  ../../target/wasm32v1-none/release/hello_world.wasm
+On-Chain Hash: 0976f8f29752e83f3408d6eb230c08c6064fa971bee7ed39e3b1be9be4c13e6f

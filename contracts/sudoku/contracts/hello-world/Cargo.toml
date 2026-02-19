@@ -1,4 +1,6 @@
 [package]
+description = "ZK-Sudoku Verifier on Stellar"
+repository = "https://github.com/bigabe001/stellar-zk-sudoku"
 name = "hello-world"
 version = "0.0.0"
 edition = "2021"
